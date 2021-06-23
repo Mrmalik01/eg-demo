@@ -11,11 +11,11 @@ lt.set_page_config(
 
 # CONSTANTS ------------------------------------------------------------------------------------------------------------
 
-DEFAULT_MODEL = "Model 6.1"
+DEFAULT_MODEL = "EthicsGrade 6.2"
 CURRENT_MODEL = {
     "model_name" : DEFAULT_MODEL
 }
-DEFAULT_COMPANY_MODEL = "EthicsGrade"
+DEFAULT_COMPANY_MODEL = "EthicsGrade 6.2"
 
 RATING_ORDER = ['NR', 'R', "D", 'C', 'B', "A", 'A+']
 RATING_ORDER_COLOR = ["#000000", "#F36E6E", "#F79C74", "#F5E989", "#82C785", "#60BF85", "#319D46"]
