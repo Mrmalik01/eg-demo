@@ -114,7 +114,7 @@ class DataHolder:
         return pd.DataFrame(data)
 
 class DataLoader:
-    base_url = "http://127.0.0.1:8000"
+    base_url = "http://ethicdemo-dev.us-west-2.elasticbeanstalk.com"
     urls = {
         "questions" : "apis/model/questions/{}",
         "answers" : "apis/model/answers",
